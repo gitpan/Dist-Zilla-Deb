@@ -1,0 +1,15 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.md
+dist.ini
+lib/Dist/Zilla/App/Command/debc.pm
+lib/Dist/Zilla/App/Command/debi.pm
+lib/Dist/Zilla/App/Command/debrelease.pm
+lib/Dist/Zilla/App/Command/debuild.pm
+lib/Dist/Zilla/Deb.pod
+t/release-pod-coverage.t
+t/release-pod-syntax.t

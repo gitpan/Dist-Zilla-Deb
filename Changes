@@ -1,0 +1,4 @@
+Revision history for Dist-Zilla-Deb
+
+0.01    Thu Nov 11, 2010
+        Initial release: 'debuild', 'debc', 'debi' and 'debrelease' commands implemented.
