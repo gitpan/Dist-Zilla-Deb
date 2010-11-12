@@ -15,9 +15,11 @@ meta-spec:
 name: Dist-Zilla-Deb
 requires:
   Dist::Zilla::App: 0
+  Dist::Zilla::Role::BeforeBuild: 0
   IPC::System::Simple: 0
+  Moose: 0
   autodie: 0
 resources:
   homepage: http://github.com/berekuk/Dist-Zilla-Deb/tree
   repository: git://github.com/berekuk/Dist-Zilla-Deb.git
-version: 0.01
+version: 0.02

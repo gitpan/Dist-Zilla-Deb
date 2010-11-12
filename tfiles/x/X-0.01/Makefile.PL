@@ -9,26 +9,18 @@ use ExtUtils::MakeMaker 6.31;
 
 
 my %WriteMakefileArgs = (
-  'ABSTRACT' => 'run debc on generated debian package',
+  'ABSTRACT' => 'XXX',
   'AUTHOR' => 'Vyacheslav Matyukhin <mmcleric@yandex-team.ru>',
-  'BUILD_REQUIRES' => {
-    'Test::More' => '0'
-  },
+  'BUILD_REQUIRES' => {},
   'CONFIGURE_REQUIRES' => {
     'ExtUtils::MakeMaker' => '6.31'
   },
-  'DISTNAME' => 'Dist-Zilla-Deb',
+  'DISTNAME' => 'X',
   'EXE_FILES' => [],
   'LICENSE' => 'perl',
-  'NAME' => 'Dist::Zilla::Deb',
-  'PREREQ_PM' => {
-    'Dist::Zilla::App' => '0',
-    'Dist::Zilla::Role::BeforeBuild' => '0',
-    'IPC::System::Simple' => '0',
-    'Moose' => '0',
-    'autodie' => '0'
-  },
-  'VERSION' => '0.02',
+  'NAME' => 'X',
+  'PREREQ_PM' => {},
+  'VERSION' => '0.01',
   'test' => {
     'TESTS' => 't/*.t'
   }

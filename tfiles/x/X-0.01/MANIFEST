@@ -1,0 +1,14 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+debian/changelog
+debian/compat
+debian/control
+debian/rules
+dist.ini
+lib/X.pm
+t/release-pod-coverage.t
+t/release-pod-syntax.t

@@ -1,6 +1,6 @@
 package Dist::Zilla::App::Command::debrelease;
 BEGIN {
-  $Dist::Zilla::App::Command::debrelease::VERSION = '0.01';
+  $Dist::Zilla::App::Command::debrelease::VERSION = '0.02';
 }
 
 use strict;
@@ -34,7 +34,7 @@ Dist::Zilla::App::Command::debrelease - build and release debian package
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

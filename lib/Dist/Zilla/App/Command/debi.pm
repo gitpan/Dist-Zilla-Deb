@@ -1,6 +1,6 @@
 package Dist::Zilla::App::Command::debi;
 BEGIN {
-  $Dist::Zilla::App::Command::debi::VERSION = '0.01';
+  $Dist::Zilla::App::Command::debi::VERSION = '0.02';
 }
 
 use strict;
@@ -32,7 +32,7 @@ Dist::Zilla::App::Command::debi - install generated debian package
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 
