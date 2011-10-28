@@ -1,8 +1,0 @@
-[DZ] beginning to build X
-[DZ] guessing dist's main_module is lib/X.pm
-[DZ] extracting distribution abstract from lib/X.pm
-[@Classic/PodVersion] couldn't find '=head1 VERSION' in lib/X.pm, not adding '=head1 VERSION'
-[@Classic/ExtraTests] rewriting release test xt/release/pod-coverage.t
-[@Classic/ExtraTests] rewriting release test xt/release/pod-syntax.t
-[DZ] writing X in X-0.01
-[DZ] writing archive to X-0.01.tar.gz

@@ -1,6 +1,6 @@
 package Dist::Zilla::Plugin::Deb::VersionFromChangelog;
 BEGIN {
-  $Dist::Zilla::Plugin::Deb::VersionFromChangelog::VERSION = '0.02';
+  $Dist::Zilla::Plugin::Deb::VersionFromChangelog::VERSION = '0.03';
 }
 
 use Moose;
@@ -37,7 +37,7 @@ Dist::Zilla::Plugin::Deb::VersionFromChangelog
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 
@@ -45,7 +45,7 @@ Vyacheslav Matyukhin <mmcleric@yandex-team.ru>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2010 by Yandex LLC.
+This software is copyright (c) 2011 by Yandex LLC.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.

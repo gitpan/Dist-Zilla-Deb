@@ -1,6 +1,6 @@
 package Dist::Zilla::App::Command::debi;
 BEGIN {
-  $Dist::Zilla::App::Command::debi::VERSION = '0.02';
+  $Dist::Zilla::App::Command::debi::VERSION = '0.03';
 }
 
 use strict;
@@ -32,7 +32,7 @@ Dist::Zilla::App::Command::debi - install generated debian package
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 
@@ -44,7 +44,7 @@ Vyacheslav Matyukhin <mmcleric@yandex-team.ru>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2010 by Yandex LLC.
+This software is copyright (c) 2011 by Yandex LLC.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
