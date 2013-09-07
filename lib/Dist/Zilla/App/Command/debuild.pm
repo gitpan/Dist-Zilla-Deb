@@ -1,6 +1,6 @@
 package Dist::Zilla::App::Command::debuild;
-BEGIN {
-  $Dist::Zilla::App::Command::debuild::VERSION = '0.03';
+{
+  $Dist::Zilla::App::Command::debuild::VERSION = '0.04';
 }
 
 use strict;
@@ -41,6 +41,7 @@ sub execute {
 1;
 
 __END__
+
 =pod
 
 =head1 NAME
@@ -49,7 +50,7 @@ Dist::Zilla::App::Command::debuild - build debian package
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 DESCRIPTION
 
@@ -63,10 +64,9 @@ Vyacheslav Matyukhin <mmcleric@yandex-team.ru>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2011 by Yandex LLC.
+This software is copyright (c) 2013 by Yandex LLC.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
-
